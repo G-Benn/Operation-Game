@@ -1,9 +1,9 @@
 # Operation-Game
 All of the code and files needed for the life-size Operation game 
 
-Some git tutorials for those who haven't used git before: 
-https://erdavenport.github.io/git-lessons/index.html  
-https://swcarpentry.github.io/git-novice/
+Some git tutorials for those who haven't used git before:   
+https://erdavenport.github.io/git-lessons/index.html    
+https://swcarpentry.github.io/git-novice/  
 
 STRUCTURE:
 3 folders, each with the code for their respective projects
